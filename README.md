@@ -1,1 +1,1 @@
-# intro-to-git-and-github-workshop-fall-2020
+# Introduction to Git and GitHub
