@@ -22,3 +22,5 @@ GitHub is a development platform for version control and collaboration. With Git
 - Deploy
 - Merge
 
+# Resources 
+- [YouTube Video](https://www.youtube.com/watch?v=tswF0wpAbTo&feature=youtu.be&ab_channel=GitHubEducation)
